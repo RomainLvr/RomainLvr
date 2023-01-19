@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [my website](https://romainlecouvreur.fr/)
 
-- 🌱 I’m currently learning **Kotlin and ThreeJS**
+- 🌱 I’m currently learning **Kotlin and Laravel**
 
 - 👨‍💻 All of my projects are available at [https://romainlecouvreur.fr/](https://romainlecouvreur.fr/)
 
