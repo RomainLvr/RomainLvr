@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Romain</h1>
 <h3 align="center">I am a french IT student</h3>
 
-- 🔭 I’m currently working on [an E-commerce-website](https://github.com/RomainLvr/E-commerce-website)
+- 🔭 I’m currently working on [E-commerce-website](https://github.com/RomainLvr/E-commerce-website)
 
 - 🌱 I’m currently learning **Kotlin and Laravel**
 
