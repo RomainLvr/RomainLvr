@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Romain</h1>
 <h3 align="center">I am a french IT student</h3>
 
-- 🔭 I’m currently working on [https://github.com/RomainLvr/E-commerce-website](https://github.com/RomainLvr/E-commerce-website)
+- 🔭 I’m currently working on [an E-commerce-website](https://github.com/RomainLvr/E-commerce-website)
 
 - 🌱 I’m currently learning **Kotlin and Laravel**
 
-- 👨‍💻 All of my projects are available at [https://romainlecouvreur.fr/](https://romainlecouvreur.fr/)
+- 👨‍💻 All of my projects are available on [my website](https://romainlecouvreur.fr/)
 
 - 📫 How to reach me **lecouvreurromain@gmail.com**
 
